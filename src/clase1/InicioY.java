@@ -6,7 +6,7 @@
 package clase1;
 
 /**
- *
+ * Hola
  * @author dafmo
  */
 public class InicioY extends javax.swing.JPanel {
